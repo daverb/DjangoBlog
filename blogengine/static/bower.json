@@ -1,0 +1,21 @@
+{
+  "name": "static",
+  "version": "0.0.0",
+  "homepage": "https://github.com/daverb/DjangoBlog",
+  "authors": [
+    "David Burson <Daverburson@gmail.com>"
+  ],
+  "keywords": [
+    "blog"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "blogengine/static/bower_components",
+    "test",
+    "tests"
+  ]
+}
